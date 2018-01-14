@@ -10,3 +10,7 @@ Sample website with plenty of files for demos
 
 ##deployment
 ##how to contribute
+
+###copright
+
+2018
