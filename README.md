@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 adding new line
-then more changesß
+updating for emergency
 ## Introduction
 
 ## Purpose
